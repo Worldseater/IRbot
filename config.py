@@ -5,3 +5,6 @@ CITY = "Ufa"
 
 WEATHER_HOUR = 5   # час
 WEATHER_MINUTE = 0  # минуты
+
+CAT_DIR = "cat"  # относительный путь к папке с картинками
+SEND_CAT_IMAGE = True  # отправлять ли картинку вместе с прогнозом
